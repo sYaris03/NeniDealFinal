@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237547216949",
+    "project_id": "nenidealdm-76a8f",
+    "storage_bucket": "nenidealdm-76a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237547216949:android:817458001c1e1c7e37917c",
+        "android_client_info": {
+          "package_name": "com.nenidealdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237547216949-nta9nhia9h3t7l4950htso79fplsivan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nenidealdm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "237547216949-ll8msqkj2br974tgv0pf8uck5e31g93t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVl30f1Lkw_NvMErbMwYP5yBxmBdrtUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237547216949-ll8msqkj2br974tgv0pf8uck5e31g93t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
